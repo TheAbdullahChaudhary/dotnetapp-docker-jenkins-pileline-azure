@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = dotnetapp
+build_property.ProjectDir = D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

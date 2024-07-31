@@ -1,0 +1,10 @@
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\bin\Debug\net48\dotnetapp.exe.config
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\bin\Debug\net48\dotnetapp.exe
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\bin\Debug\net48\dotnetapp.pdb
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.csproj.AssemblyReference.cache
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.AssemblyInfoInputs.cache
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.AssemblyInfo.cs
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.csproj.CoreCompileInputs.cache
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.exe
+D:\DevOps\Azure pipeline\dotnet-framework-docker-main\samples\dotnetapp\obj\Debug\net48\dotnetapp.pdb
